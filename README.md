@@ -9,11 +9,13 @@ En las futuras actualizaciones esperamos que puedan contar con inclusion de rede
 
 ## Build app
 
-### Build app sin encriptar
+#### Build app sin encriptar
 
 Para crear la aplicacion sin hacer uso de la encriptacion por medio del modulo asar
 
 npm run create
+
+#### Build app encriptada
 
 Para crear la aplicacion con los archivos encripados por el modulo asar
 
