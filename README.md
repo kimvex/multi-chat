@@ -9,14 +9,22 @@ En las futuras actualizaciones esperamos que puedan contar con inclusion de rede
 
 ## Build app
 
-#### Build app sin encriptar
+#### Build app sin encriptar linux
+
+Esto solo es para version linux
 
 Para crear la aplicacion sin hacer uso de la encriptacion por medio del modulo asar
 
 npm run create
 
-#### Build app encriptada
+#### Build app encriptada linux
 
 Para crear la aplicacion con los archivos encripados por el modulo asar
 
 npm run cons
+
+#### Build app encriptada Window
+
+Para crear la aplicacion con los archivos encriptados con el modulo asar
+
+npm run conswin
